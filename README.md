@@ -1,3 +1,3 @@
 # Kakao clone 2021
 
-where is my first-website file?
+where is my first and second-website file?
